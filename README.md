@@ -136,5 +136,6 @@ ORDER BY 1;
 
 ## Interactive BI Dashboard
 
+![Superstore Executive Dashboard](dashboard_preview.png)
 * **Live Dashboard URL:** https://datastudio.google.com/reporting/f57f1448-dc94-4fb0-9104-8c5b2ad731d2
 * **Database Host:** Supabase Cloud PostgreSQL
