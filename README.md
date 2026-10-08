@@ -880,6 +880,10 @@ A complete commercial analysis must understand not only how much the dataset sel
 
 This project therefore combines **technical data analysis with commercial reasoning** to turn transactional data into actionable business insight.
 
+## Executive Overview
+
+![Executive Overview](dashboard/executive_overview.png)
+
 ---
 
 # Conclusion
