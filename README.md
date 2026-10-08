@@ -28,7 +28,7 @@ Key findings include:
 - **$156.12K** in total losses
 - **5,009** distinct orders
 - **1,318** loss-making orders
-- approximately **12.46%** overall profit margin
+- approximately **12.47%** overall profit margin
 
 The analysis also shows that profitability deteriorates as discount levels increase, highlighting discount management as an important commercial consideration.
 
@@ -898,10 +898,12 @@ Together, they create a repeatable workflow for moving from raw transactional da
 
 # Author
 
-**Pascal Chidera**
-
-GitHub: [@leodera](https://github.com/leodera)
-
+**Pascal Chidera Ndife**  
+- **Live Portfolio:** [leodera.github.io](https://leodera.github.io)  
+- **LinkedIn:** [Pascal Ndife](https://linkedin.com/in/pascal-ndife-755336426)  
+- **GitHub:** [@leodera](https://github.com/leodera)  
+- **X (Twitter):** [@leo_analyst](https://x.com/leo_analyst)  
+- **Email:** ndifepascal@gmail.com
 ---
 
 # Dataset Source
