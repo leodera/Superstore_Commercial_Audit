@@ -1,7 +1,20 @@
-.env
-.env.*
+# Google credentials
+credentials.json
+
+# Python
 __pycache__/
 *.pyc
+
+# Virtual environments
 .venv/
 venv/
+env/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.vscode/
